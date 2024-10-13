@@ -5,3 +5,5 @@ This project makes use of OpenWeatherMap's API to provide information about the 
 ## ISSUES
 
 I initially had a bit of trouble trying to extract the relevant data from the response to the GET request. I fixed this by ensuring that the response was parsed before extracting the data.
+
+I had no other issues or questions arise while working on this program.
